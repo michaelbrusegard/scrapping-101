@@ -1,19 +1,23 @@
-# Introduksjon til webscraping og e2e-testing
-Bygg en terminalbasert nyhetsaggregator ved hjelp av Playwright og Node.js.
+# Introduction to web scraping
 
-## Bakgrunn
-Kodebasen er et utgangspunkt for en lunsjworkshop om e2e-testing og webscraping med Fremtind.
-Les gjennom [PRESENTASJON.md](PRESENTASJON.md) for mer informasjon om de underliggende konseptene.
+A terminal-based news scraper that looks for articles containing the specified keyword.
 
-## Lokaloppsett
-Sørg for å ha [Node.js](https://nodejs.org/en/) installert på maskinen din.
+## Background
 
-### Installer avhengigheter
+Made during a lunch workshop about e2e-testing and web scraping with Fremtind.
+
+## Local Development
+
+Make sure to have [Node.js](https://nodejs.org/en/) installed.
+
+### Install dependencies
+
 ```bash
 npm install
 ```
 
-### Kjør prosjektet
+### Run the project
+
 ```bash
 npm run execute
 ```
